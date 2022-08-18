@@ -28,8 +28,8 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafawaltrick@gmail.com">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.telegram.com/rodrigodrsantos/">
-        <img  src="https://img.shields.io/badge/telegram-%23100000.svg?&style=for-the-badge&logo=telegram&logoColor=white&link=mailto:https://web.telegram.org">
+    <a href="https://t.me/rafawaltrick">
+        <img  src="https://img.shields.io/badge/telegram-%23100000.svg?&style=for-the-badge&logo=telegram&logoColor=white&link=mailto:                           [https://web.telegram.org](https://t.me/rafawaltrick)">
     </a>
 
 </p>
