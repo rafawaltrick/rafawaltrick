@@ -5,7 +5,7 @@
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos;
 - 👨‍🎓 Estudante de Programação;
 - :compass: Formado em Licenciatura Plena em Geografia;
-- 📫 Como me encontrar: <a href="www.linkedin.com/in/rafael-p-waltrick">Linkedin</a>
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rafael-p-waltrick/">Linkedin</a>
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawaltrick&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
