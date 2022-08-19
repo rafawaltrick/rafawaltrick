@@ -1,5 +1,8 @@
 ## Olá, Meu nome é Rafael Peressoni Waltrick 👋
 
+
+![haker](https://user-images.githubusercontent.com/89934539/185683877-6da7e73d-923c-4271-aac4-4ff537819967.gif)
+
 ### Sobre mim
 
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos;
