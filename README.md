@@ -1,26 +1,4 @@
-## Olá, Meu nome é Rafael Peressoni Waltrick 👋
-
-
-![haker](https://user-images.githubusercontent.com/89934539/185683877-6da7e73d-923c-4271-aac4-4ff537819967.gif)
-
-### Sobre mim
-
-- 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos;
-- 👨‍🎓 Estudante de Programação;
-- :compass: Formado em Licenciatura Plena em Geografia;
-- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/rafael-p-waltrick/">Linkedin</a>
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawaltrick&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawaltrick&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafawaltrick&theme=radical"/> 
-
-
-
-
-![Snake animation](https://github.com/rafawaltrick/rafawaltrick/blob/output/github-contribution-grid-snake.svg)
-
-## Contato :iphone:
+<h2 align="center">Contatos :iphone:</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/rafael-p-waltrick">
@@ -36,6 +14,57 @@
     </a>
 
 </p>
+</br>
+
+# Olá, Meu nome é Rafael Peressoni Waltrick 👋
+
+## Sobre mim
+
+- :trophy: Busco oportunidades para me desenvolver na metodologia Ágil Scrum na função de Product Owner e de Scrum Master;
+- 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos;
+- 👨‍🎓 Trabalhei por 6 mêses no INPE no Programa Queimadas;
+- :compass: Formado em Licenciatura Plena em Geografia;
+
+<details>
+   <summary><h2>Vida Acadêmica</h2></summary>
+   <br> 
+No primeiro semestre, tinhamos que fazer um portal de comunição para a FATEC, era Pandemia da COVID 19 e o portal deles ficou sobrecarregado.
+
+Nesse Projeto foi o meu primeiro contato com a Metodologia Ágil e eu desempenhei o papel de Scrum Master (SM). 
+
+Foi um periodo confuso e cheio de dificuldades, Eu fiz as apresentações de todas as Sprints e resolvia os conflitos dentro da equipe, desde disistir do curso até a busca de soluções para que conseguissemos finalizar o projeto.
+
+[Repositório Portal FATEC](https://github.com/EquipeGfour/API-GFour-Primeiro-Semestre-)
+
+
+Já no segundo semestre, o desafio foi criar um porta de RH para a empresa Ionic Health.
+
+Agora eu atuei no time de desenvolvimento no Front-End. O desafio foi trabalhar com React JavaScript. A cada semestre tinhamos que trabalhar com uma nova linguagem, o que é bastante desafiador. 
+
+[Repositório Ionic Health](https://github.com/EquipeGfour/Api-2-Semestre-)
+
+
+No terceiro semestre, também atuei no time de desenvolvimento e a linguagem agora era Java com Spring. E o objetivo era fazer a parte de criação de vendas para o Portal UOL, tinhamos que buscar uma solução para agilizar e amenizar o trabalho repetitivo da pessoa responsável pela criação dos produtos do Portal. Nesse semestre eu colaborei, também, com o Front-End.
+
+[Repositório Portal UOL](https://github.com/EquipeGfour/API-3Semestre-UOL)
+
+
+Recentimente no quarto semestre, meu papel foi como Product Owner (PO) e tinha mos que fazer uma estação metereológica para a empresa TecSus.
+
+Aqui o desafio foi a linguagem C, C# no embarcado assim como a interação entre a estação física com o nosso sistema para mostrarmos os dados no deshborard.
+
+[Repositório da Estação Metereológica](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)
+
+[Repositório com os nossos projetos](https://github.com/EquipeGfour)
+
+</details>
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawaltrick&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawaltrick&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafawaltrick&theme=radical"/> 
+
+![Snake animation](https://github.com/rafawaltrick/rafawaltrick/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
 
