@@ -51,7 +51,7 @@ No terceiro semestre, também atuei no time de desenvolvimento e a linguagem ago
 
 Recentimente no quarto semestre, meu papel foi como Product Owner (PO) e tinha mos que fazer uma estação metereológica para a empresa TecSus.
 
-Aqui o desafio foi a linguagem C, C# no embarcado assim como a interação entre a estação física com o nosso sistema para mostrarmos os dados no deshborard.
+Aqui o desafio foi a linguagem C, C# no embarcado assim como a interação entre a estação física com o nosso sistema para mostrarmos os dados no dashboard.
 
 [Repositório da Estação Metereológica](https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica)
 
