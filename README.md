@@ -65,7 +65,7 @@ Aqui o desafio foi a linguagem C, C# no embarcado assim como a interação entre
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafawaltrick&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawaltrick&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawaltrick&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafawaltrick&theme=radical"/> 
 
 ![Snake animation](https://github.com/rafawaltrick/rafawaltrick/blob/output/github-contribution-grid-snake.svg)
