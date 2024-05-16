@@ -20,13 +20,16 @@
 
 ## Sobre mim
 
+### Sou um profissional habilitado a administrar entregas, gerindo os requisitos técnicos junto as equipes envolvidas. Capaz de se adaptar a diferentes ambientes e situações buscando soluções palpáveis para o problema e sempre disposto a aprender.
+</br>
+
 - :trophy: Busco oportunidades para me desenvolver na metodologia Ágil Scrum na função de Product Owner e de Scrum Master;
 - 👨‍💻 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos;
 - 👨‍🎓 Trabalhei por 6 mêses no INPE no Programa Queimadas;
 - :compass: Formado em Licenciatura Plena em Geografia;
 
-<details>
-   <summary><h2>Experiências</h2></summary>
+
+   <h2>Experiências</h2>
    <br> 
 No primeiro semestre, tinhamos que fazer um portal de comunição para a FATEC, era Pandemia da COVID 19 e o portal deles ficou sobrecarregado.
 
@@ -57,7 +60,7 @@ Aqui o desafio foi a linguagem C, C# no embarcado assim como a interação entre
 
 [Repositório com os nossos projetos](https://github.com/EquipeGfour)
 
-</details>
+
 
 </br>
 <h2></h2>
