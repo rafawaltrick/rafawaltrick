@@ -26,7 +26,7 @@
 - :compass: Formado em Licenciatura Plena em Geografia;
 
 <details>
-   <summary><h2>Vida Acadêmica</h2></summary>
+   <summary><h2>Experiências</h2></summary>
    <br> 
 No primeiro semestre, tinhamos que fazer um portal de comunição para a FATEC, era Pandemia da COVID 19 e o portal deles ficou sobrecarregado.
 
