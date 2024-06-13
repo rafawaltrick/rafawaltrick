@@ -40,6 +40,8 @@ O projeto foi concluído com sucesso, entregando um portal de comunicação func
 
 * **Repositório:** https://github.com/EquipeGfour/API-GFour-Primeiro-Semestre-
 
+→ [Voltar ao topo](#topo)
+
 <span id="2semestre">
 
 ### Segundo Semestre em 2022/1
@@ -59,6 +61,8 @@ O projeto foi concluído com sucesso, entregando um portal de comunicação func
 Ao longo das sprints, a equipe trabalhou em conjunto com os stakeholders para garantir que os requisitos fossem atendidos e que a plataforma entregasse o valor esperado. A comunicação constante e a flexibilidade para adaptar o backlog foram fundamentais para o sucesso do projeto. O resultado final foi uma plataforma completa e segura para a gestão de talentos, que atende às necessidades da empresa e está em conformidade com a legislação vigente.
 
 * **Repositório:** https://github.com/EquipeGfour/Api-2-Semestre-
+
+→ [Voltar ao topo](#topo)
 
 <span id="3semestre">
 
@@ -82,6 +86,8 @@ Ao longo das sprints, a equipe manteve uma comunicação constante com os stakeh
 
 * **Repositório:** https://github.com/EquipeGfour/API-3Semestre-UOL
 
+→ [Voltar ao topo](#topo)
+
 <span id="4semestre">
 
 ### Quarto Semestre em 2023/1
@@ -103,6 +109,8 @@ Ao longo das sprints, a equipe manteve uma comunicação constante com os stakeh
 Ao longo do desenvolvimento, a equipe se adaptou às necessidades do projeto, realizando correções e ajustes para garantir a qualidade e a funcionalidade da estação meteorológica. O resultado final foi um sistema completo e eficiente, capaz de coletar, armazenar e apresentar dados meteorológicos de forma precisa e intuitiva.
 
 * **Repositório:** https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica
+
+→ [Voltar ao topo](#topo)
 
 <span id="5semestre">
 
@@ -126,6 +134,8 @@ Ao longo das sprints, a equipe trabalhou em estreita colaboração, adaptando-se
 
 * **Repositório:** https://github.com/EquipeGfour/API-5Semestre-OracleAcademy
 
+→ [Voltar ao topo](#topo)
+
 <span id="6semestre">
 
 ### Sexto Semestre em 2024/1.
@@ -138,22 +148,15 @@ Ao longo das sprints, a equipe trabalhou em estreita colaboração, adaptando-se
 
 * **Repositório:** https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock
 
+→ [Voltar ao topo](#topo)
 
 ## 📫 Contato
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/rafael-p-waltrick">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/rafael-p-waltrick/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:rafawaltrick@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafawaltrick@gmail.com">
-    </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/rafawaltrick">
-        <img  src="https://img.shields.io/badge/telegram-%23100000.svg?&style=for-the-badge&logo=telegram&logoColor=white&link=mailto:[https://web.telegram.org](https://t.me/rafawaltrick)">
-    </a>
-</p>
+* Linkedin: :briefcase: https://www.linkedin.com/in/rafael-p-waltrick
+* E-Mail: :mailbox: rafawaltrick@gmail.com
+* Telegram: :left_speech_bubble: https://t.me/rafawaltrick
+* WhatsApp: :left_speech_bubble: https://wa.me/5515996657948
+
 </br>
 
 <h2 align="center">Estatísticas Do Repositório</h2>
