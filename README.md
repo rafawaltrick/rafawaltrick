@@ -1,10 +1,28 @@
 ## Olá! 👋 Sou Rafael Peressoni Waltrick.
 
-Sou um profissional multifacetado, formado em Licenciatura em Geografia e em Desenvolvimento de Software Multiplataforma. Ao longo da minha carreira, acumulei experiência como Professor, Visitador Sanitário e em outras áreas, desenvolvendo habilidades comunicacionais, organizacionais e interpessoais que me permitem conectar com pessoas de diferentes origens e necessidades.
+**Apresentação Profissional**
 
-Minha paixão por tecnologia e meu desejo de contribuir para o sucesso de projetos e equipes me impulsionam a buscar oportunidades como Gestor de Projetos, Analista de Customer Success, Analista de Pessoas e Cultura, ou outras áreas que valorizem minhas habilidades técnicas e comportamentais.
+Sou um profissional multifacetado com formação em Licenciatura em Geografia e Desenvolvimento de Software Multiplataforma. Ao longo de minha trajetória, acumulei experiência como Professor e Visitador Sanitário, desenvolvendo habilidades comunicacionais, organizacionais e interpessoais que me tornam um candidato ideal para posições em Gestão de Projetos, Analista de Customer Success, Analista de Pessoas e Cultura, entre outras áreas que valorizam o lado humano e técnico.
 
-Acredito que a combinação da minha formação acadêmica, experiência profissional e características pessoais me tornam um candidato qualificado para agregar valor a qualquer equipe. Estou sempre em busca de novos desafios e oportunidades de aprendizado, e estou ansioso para colaborar em projetos que façam a diferença.
+Minha paixão por conectar pessoas e tecnologia me impulsiona a buscar desafios em ambientes dinâmicos e colaborativos. Sou proativo, adaptável e possuo facilidade em aprender novas ferramentas e metodologias. Além disso, sou um entusiasta da metodologia Ágil, com conhecimento prático em Scrum, o que me permite contribuir para a otimização de processos e a entrega de resultados eficazes.
+
+Acredito que minhas qualificações e experiências, aliadas ao meu perfil comunicativo e colaborativo, podem agregar valor à sua equipe. 
+
+**Habilidades Destacadas:**
+
+* **Comunicação:** Experiência em ministrar aulas e realizar visitas domiciliares, com capacidade de transmitir informações de forma clara e concisa.
+* **Organização:** Planejamento e execução de projetos educacionais e de saúde pública, com foco em resultados e prazos.
+* **Relacionamento Interpessoal:** Facilidade em estabelecer rapport com pessoas de diferentes perfis, construindo relações de confiança e colaboração.
+* **Metodologia Ágil (Scrum):** Conhecimento prático em Scrum, com experiência em sprints, planejamento e acompanhamento de projetos.
+* **Pensamento Analítico:** Capacidade de analisar dados e informações, identificando problemas e propondo soluções eficazes.
+
+**Disponibilidade:**
+
+Aberto a oportunidades em Gestão de Projetos, Analista de Customer Success, Analista de Pessoas e Cultura e áreas afins.
+
+**Próximos Passos:**
+
+Terei prazer em discutir minhas qualificações e experiências em mais detalhes e como posso contribuir para o sucesso da sua equipe.
 
 ## 📚 Projetos Semestrais
 
