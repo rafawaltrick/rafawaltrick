@@ -24,7 +24,8 @@ Aberto a oportunidades em Gestão de Projetos, Analista de Customer Success, Ana
 
 Terei prazer em discutir minhas qualificações e experiências em mais detalhes e como posso contribuir para o sucesso da sua equipe.
 
-## 📚 Projetos Semestrais
+## 📚 FATEC: Projetos Integradores
+Projetos em grupo desenvolvidos durante o Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC (2021.2 - 2024.1)
 
 <span id="topo">
 <p align="center">
