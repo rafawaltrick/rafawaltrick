@@ -163,7 +163,39 @@ Ao longo das sprints, a equipe trabalhou em estreita colaboração, adaptando-se
 
 * **Objetivo:** O objetivo deste projeto é desenvolver um sistema inovador que utiliza inteligência artificial (IA) em linguagem natural para sumarizar automaticamente grandes volumes de comentários de clientes. O sistema irá gerar resumos concisos e informativos, categorizados por diversos critérios relevantes para análise, como produto, categoria, recomendação, geografia e demografia.
 
-* **Descrição:** []
+* **Descrição:** Este projeto inovador visa revolucionar a forma como empresas e consumidores interagem com reviews de produtos. Através de técnicas avançadas de processamento de linguagem natural e aprendizado de máquina, o sistema oferece:
+
+* **Sumarização Automática:** Geração de resumos concisos e informativos de reviews, facilitando a análise de grandes volumes de dados.
+* **Análise de Sentimentos:** Identificação da polaridade das opiniões (positiva, negativa ou neutra) para entender a percepção dos clientes.
+* **Análise de Frequência de Palavras:** Extração de termos chave e insights sobre os principais tópicos abordados nas reviews.
+* **Visualização de Dados:** Gráficos interativos e dashboards para explorar e interpretar os dados de forma intuitiva.
+* **Pesquisa Inteligente:** Funcionalidade de busca com autocompletar para encontrar reviews relevantes rapidamente.
+
+O sistema foi desenvolvido em quatro sprints, cada um com foco em funcionalidades específicas:
+
+* **Sprint 1:** Pré-processamento dos dados e criação da interface do usuário.
+* **Sprint 2:** Agrupamento de reviews por tópicos e melhorias no banco de dados.
+* **Sprint 3:** Implementação da sumarização extrativa e análise de dados demográficos.
+* **Sprint 4:** Aprimoramento da pesquisa e implementação em nuvem para escalabilidade e alta disponibilidade.
+
+**Tecnologias Utilizadas:**
+
+* Python
+* Bibliotecas de Processamento de Linguagem Natural (NLTK, spaCy)
+* Aprendizado de Máquina (Scikit-learn)
+* Banco de Dados (PostgreSQL)
+* Amazon Web Services (EC2)
+
+**Benefícios para as Empresas:**
+
+* **Economia de Tempo:** Análise rápida e eficiente de grandes volumes de reviews.
+* **Tomada de Decisões Estratégicas:** Insights valiosos sobre a percepção dos clientes e os principais pontos de melhoria dos produtos.
+* **Melhora da Experiência do Cliente:** Respostas mais rápidas e personalizadas às necessidades dos clientes.
+
+**Benefícios para os Consumidores:**
+
+* **Acesso Rápido à Informação:** Resumos concisos que facilitam a comparação de produtos e a tomada de decisões de compra.
+* **Opiniões Relevantes:** Identificação das opiniões mais importantes e úteis sobre os produtos.
 
 * **Repositório:** https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock
 
